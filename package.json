@@ -1,5 +1,7 @@
 {
   "name": "spacex-launch-details",
+  "author": "Mustafa Batar",
+  "description": "This repository includes the application that helps you call the launch details of SpaceX",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
