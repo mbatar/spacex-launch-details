@@ -6,8 +6,4 @@ import App from './components/App';
 const root = ReactDOM.createRoot(
   document.getElementById('spacex-root') as HTMLElement
 );
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+root.render(<App />);
