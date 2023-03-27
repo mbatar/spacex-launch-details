@@ -9,9 +9,6 @@ const api = axios.create({
     transformRequest: [
         (data) => qs.stringify(data)
     ],
-    transformResponse: [
-        (data) => qs.parse(data)
-    ]
 });
 
 const request = <T>(method: Method, url: string, params: any): Promise<AxiosResponse<T>> => {
