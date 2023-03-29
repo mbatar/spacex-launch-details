@@ -19,3 +19,5 @@ If you encounter CORS error in your local environment, install [Allow CORS: Acce
 > Note: If you wish, you can see the [live version](https://mbatarcasespacex.netlify.app) of the project.
 
 > https://mbatarcasespacex.netlify.app
+
+> Example date: 2011.03.01 - 2022.03.01
