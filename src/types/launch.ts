@@ -1,7 +1,7 @@
 export interface ISearchData {startDate: string, endDate: string}
 export interface ILaunchData {
     isLoading: boolean
-    error: string
+    error: string,
     searchData: ISearchData
     docs: ILaunch[]
     totalDocs: number
